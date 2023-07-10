@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7e869cbb-f397-40ed-970c-1db160f5f294" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/public.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/a1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/a1/other-page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/a1/testlabot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tuiter/albono-profile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tuiter/banner-image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tuiter/danny-profile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tuiter/edit-profile.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tuiter/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tuiter/lando-profile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tuiter/nasa-tuits-header-photo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tuiter/navigation.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tuiter/new-tuit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tuiter/profile-photo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tuiter/profile.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tuiter/profile/edit-profile.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tuiter/profile/nasa-profile-header.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tuiter/profile/nasa-profile-photo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tuiter/profile/profile-details.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tuiter/tuit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tuiter/tuits.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2SO9nssojrOdilURdAOjvWWIHx5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/bhorner/Desktop/Homework/2023/summer/webdev/tuiter-react-web-app",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "preferences.editor",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="JavaScript Debug.home.html">
+    <configuration name="edit-profile.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/public/public/tuiter/profile/edit-profile.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="edit-profile.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/public/public/tuiter/edit-profile.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="home.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/public/public/tuiter/home.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="profile.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/public/public/tuiter/profile.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="tuit.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/public/public/tuiter/tuit.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.home.html" />
+        <item itemvalue="JavaScript Debug.profile.html" />
+        <item itemvalue="JavaScript Debug.edit-profile.html" />
+        <item itemvalue="JavaScript Debug.tuit.html" />
+        <item itemvalue="JavaScript Debug.edit-profile.html (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7e869cbb-f397-40ed-970c-1db160f5f294" name="Changes" comment="" />
+      <created>1689006931285</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1689006931285</updated>
+      <workItem from="1689006932584" duration="17112000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

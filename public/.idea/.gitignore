@@ -1,0 +1,7 @@
+.idea
+node_modules
+public/tuiter/profile/edit-profile.html
+public/tuiter/new-tuit.html
+public/tuiter/tuits.html
+public/tuiter/profile/profile-details.html
+
